@@ -1,0 +1,74 @@
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\ApplicationInsights.config
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\csc.exe
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\System.Collections.Immutable.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\vbc.exe
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\VBCSCompiler.exe
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\VBCSCompiler.exe.config
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\LamichhaneAngat_AddressBooks.dll.config
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\LamichhaneAngat_AddressBooks.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\LamichhaneAngat_AddressBooks.pdb
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\EntityFramework.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\EntityFramework.SqlServer.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.Web.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.WindowsServer.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.ApplicationInsights.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\EntityFramework.xml
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\EntityFramework.SqlServer.xml
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.Web.xml
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.WindowsServer.xml
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.ApplicationInsights.xml
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\obj\Debug\LamichhaneAngat_AddressBooks.dll
+c:\users\qs1282ay\documents\visual studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\obj\Debug\LamichhaneAngat_AddressBooks.pdb
+C:\Users\qs1282ay\Documents\Visual Studio 2015\Projects\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\obj\Debug\LamichhaneAngat_AddressBooks.csprojResolveAssemblyReference.cache
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\ApplicationInsights.config
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\csc.exe
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\vbc.exe
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\LamichhaneAngat_AddressBooks.dll.config
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\LamichhaneAngat_AddressBooks.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\LamichhaneAngat_AddressBooks.pdb
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\EntityFramework.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\EntityFramework.SqlServer.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.Web.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.ApplicationInsights.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\EntityFramework.xml
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\EntityFramework.SqlServer.xml
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.Web.xml
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.ApplicationInsights.xml
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\obj\Debug\LamichhaneAngat_AddressBooks.csprojResolveAssemblyReference.cache
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\obj\Debug\LamichhaneAngat_AddressBooks.dll
+C:\Users\qs1282ay\Desktop\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\LamichhaneAngat_AddressBooks\obj\Debug\LamichhaneAngat_AddressBooks.pdb
